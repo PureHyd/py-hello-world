@@ -1,1 +1,1 @@
-print("Goodbye, Hack Night!")
+print("Goodbye, Hack Night! Follow my twitter")
